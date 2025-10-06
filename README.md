@@ -1,3 +1,4 @@
 # PDB database creation 
 create PLUGGABLE DATABASE &&Pa_PDB_28270
 ADMIN USER &&Pacifique_plsql_28270 IDENTIFIED BY "Pl@123"
+{https://github.com/i-paccy/new-plsql/blob/main/Screenshot%202025-10-06%20at%2019.35.59.png?raw=true}
