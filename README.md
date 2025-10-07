@@ -26,6 +26,7 @@ CREATE PLUGGABLE DATABASE pa_to_delete_pdb_28270
     '/opt/oracle/oradata/ORCLCDB/pa_to_delete_pdb_28270/'
   );
 ![Table](https://github.com/i-paccy/new-plsql/blob/main/D1.png?raw=true)
+![](https://github.com/i-paccy/new-plsql/blob/main/D2.png?raw=true)
 
 ALTER PLUGGABLE DATABASE Pa_to_delete_pdb_28270 CLOSE IMMEDIATE;
 ![Table](https://github.com/i-paccy/new-plsql/blob/main/Screenshot%202025-10-06%20at%2020.42.38.png?raw=true)
