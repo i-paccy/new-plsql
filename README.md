@@ -2,7 +2,7 @@
 CREATE PLUGGABLE DATABASE pa_pdb_28270
   ADMIN USER Pacifique_plsqlauca_28270 IDENTIFIED BY "Pa@123456"
   FILE_NAME_CONVERT = ('/opt/oracle/oradata/ORCLCDB/pdbseed/', '/opt/oracle/oradata/ORCLCDB/pa_pdb_28270/');
-
+![](https://github.com/i-paccy/new-plsql/blob/main/Screenshot%202025-10-07%20at%2020.46.48.png?raw=true)
 
 create PLUGGABLE DATABASE Pa_PDB_28270;
 ADMIN USER &&Pacifique_plsql_28270 IDENTIFIED BY "Pl@123";
