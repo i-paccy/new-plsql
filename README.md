@@ -36,3 +36,4 @@ ALTER PLUGGABLE DATABASE Pa_to_delete_pdb_28270 CLOSE IMMEDIATE;
 #challenges 
 using docker in mac m2 it was so difficult because it me more time to find out how it works. Also some commands were not working properly.
 Lastly connecting my mac to localhost:5500/em it wasn't successful i tried to ask for assistance but i failed to find the right person or information to help me.
+![](https://github.com/i-paccy/new-plsql/blob/main/F6.png?raw=true)
