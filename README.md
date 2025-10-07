@@ -8,7 +8,7 @@ ALTER PLUGGABLE DATABASE pa_pdb_28270 OPEN;
 ![Sample table](https://github.com/i-paccy/new-plsql/blob/main/1.png?raw=true)
 ALTER PLUGGABLE DATABASE pa_pdb_28270 SAVE STATE;
 
-
+![](https://github.com/i-paccy/new-plsql/blob/main/2.png?raw=true)
 
 ALTER SESSION SET CONTAINER = pa_pdb_28270;
 
