@@ -32,4 +32,4 @@ CREATE PLUGGABLE DATABASE pa_to_delete_pdb_28270
 ![](https://github.com/i-paccy/new-plsql/blob/main/D5.png?raw=true)
 
 ALTER PLUGGABLE DATABASE Pa_to_delete_pdb_28270 CLOSE IMMEDIATE;
-![Table](https://github.com/i-paccy/new-plsql/blob/main/Screenshot%202025-10-06%20at%2020.42.38.png?raw=true)
+![Table](https://github.com/i-paccy/new-plsql/blob/main/D6.png?raw=true)
