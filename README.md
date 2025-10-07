@@ -16,8 +16,7 @@ ALTER SESSION SET CONTAINER = pa_pdb_28270;
 
 GRANT DBA TO Pacifique_plsqlauca_28270;
 
-
-
+![](https://github.com/i-paccy/new-plsql/blob/main/3.png?raw=true)
 
 ## SECOND QUESTION
 CREATE PLUGGABLE DATABASE &&Pa_to_delete_pdb_28270;
