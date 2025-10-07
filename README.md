@@ -12,7 +12,11 @@ ALTER PLUGGABLE DATABASE pa_pdb_28270 SAVE STATE;
 
 ALTER SESSION SET CONTAINER = pa_pdb_28270;
 
+![](https://github.com/i-paccy/new-plsql/blob/main/3.png?raw=true)
+
 GRANT DBA TO Pacifique_plsqlauca_28270;
+
+
 
 
 ## SECOND QUESTION
